@@ -42,7 +42,7 @@ class BookDetails extends StatelessWidget {
                     letterSpacing: 0.6,
                     wordSpacing: 0.6,
                   ),),
-                  SizedBox(height: 80,),
+                  SizedBox(height: 70,),
                   Row(
                     children: <Widget>[
                       Expanded(
