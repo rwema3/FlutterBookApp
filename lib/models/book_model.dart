@@ -1,5 +1,4 @@
 class BookModel{
-
   String imgAssetPath;
   String title;
   String description;
