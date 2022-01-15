@@ -1,5 +1,4 @@
 class SingleBookModel{
-
   String imgAssetPath;
   String title;
   String categorie;
