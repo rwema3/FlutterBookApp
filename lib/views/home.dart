@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 padding: EdgeInsets.symmetric(horizontal: 12),
                 child: Row(
                   children: <Widget>[
-                    Text("Hi John,", style: TextStyle(
+                    Text("Hi Rwema,", style: TextStyle(
                         fontWeight: FontWeight.w500,
                         fontSize: 24
                     ),),
@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     }),
               ),
               Container(
-                height: 200,
+                height: 80,
                 child: ListView.builder(
                     itemCount: books.length,
                     scrollDirection: Axis.horizontal,
@@ -90,10 +90,10 @@ class _MyHomePageState extends State<MyHomePage> {
                       );
                     }),
               ),
-              SizedBox(height: 16,),
+              SizedBox(height: 8,),
               Text("You may also like", style: TextStyle(
                   color: Colors.black87,
-                  fontSize: 18,
+                  fontSize: 8,
                   fontWeight: FontWeight.w500
               ),),
               SizedBox(height: 12,),
