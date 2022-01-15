@@ -36,7 +36,7 @@ class BookDetails extends StatelessWidget {
                     ],
                   ),
                   SizedBox(height: 30,),
-                  Text("“The Little Mermaid” is a fairy tale written by the Danish author H. The story follows the journey of a young mermaid who is willing to give up her life in the sea as a mermaid to gain a human soul. The tale was first published in 1837 as part of a collection of fairy tales for children.", style: TextStyle(
+                  Text("“The Little Mermaid” is a fairy tale written by the Danish author . The story follows the journey of a young mermaid who is willing to give up her life in the sea as a mermaid to gain a human soul. The tale was first published in 1837 as part of a collection of fairy tales for children.", style: TextStyle(
                     color: Colors.grey,
                     fontSize: 18,
                     letterSpacing: 0.6,
