@@ -51,7 +51,7 @@ class BookDetails extends StatelessWidget {
                           padding: EdgeInsets.symmetric(vertical: 18),
                           decoration: BoxDecoration(
                             color: darkGreen,
-                            borderRadius: BorderRadius.circular(12)
+                            borderRadius: BorderRadius.circular(13)
                           ),
                           child: Text("Read Book", style: TextStyle(
                             color: Colors.white,
