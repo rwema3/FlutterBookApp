@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
               SizedBox(height: 30,),
               Container(
                 padding: EdgeInsets.symmetric(horizontal: 12),
-                height: 40,
+                height: 41,
                 child: ListView.builder(
                     itemCount: categories.length,
                     shrinkWrap: true,
