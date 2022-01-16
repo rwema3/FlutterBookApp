@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     }),
               ),
               Container(
-                height: 80,
+                height: 81,
                 child: ListView.builder(
                     itemCount: books.length,
                     scrollDirection: Axis.horizontal,
