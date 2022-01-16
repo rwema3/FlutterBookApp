@@ -18,7 +18,7 @@ Christian Andersen.''';
   books.add(bookModel);
   bookModel = new BookModel();
 
-  //1
+  //2
   bookModel.imgAssetPath = "assets/blabla.png";
   bookModel.title = "Willows Of Fate";
   bookModel.description = '''Is there room in the hands of fate for free will?All her life, Desdemona has seen things others haven’t.''';
