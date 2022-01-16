@@ -47,7 +47,7 @@ List<SingleBookModel> getSingleBooks(){
 
   //2
   singleBookModel.imgAssetPath = "assets/time_of_witches.png";
-  singleBookModel.title = "Tim of Witched";
+  singleBookModel.title = "Tim of Witchs";
   singleBookModel.categorie = "Anthology";
   books.add(singleBookModel);
 
