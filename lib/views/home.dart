@@ -151,7 +151,7 @@ class _CategorieTileState extends State<CategorieTile> {
             ),
             SizedBox(height: 3,),
             widget.isSelected ? Container(
-              height: 5,
+              height: 6,
               width: 16,
               decoration: BoxDecoration(
                   color: Color(0xff0b3036),
