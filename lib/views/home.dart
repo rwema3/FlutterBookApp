@@ -21,9 +21,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   void initState() {
-    // TODO: implement init
+    // TODO: implement
     super.initState();
-
     books = getBooks();
     singleeBooks = getSingleBooks();
   }
