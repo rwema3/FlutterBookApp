@@ -11,8 +11,8 @@ List<BookModel> getBooks(){
   bookModel.title = "The little mermaid";
   bookModel.description = '''“The Little Mermaid” is a
 fairy tale written by the Danish author Hans
-Christian Andersen.''';
-  bookModel.rating = 7;
+Christian .''';
+  bookModel.rating = 5;
   bookModel.categorie = "Fairy Tailes";
 
   books.add(bookModel);
