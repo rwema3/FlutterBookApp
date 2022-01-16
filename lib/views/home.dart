@@ -190,7 +190,7 @@ class BooksTile extends StatelessWidget {
               height: 180,
               alignment: Alignment.bottomLeft,
               child: Container(
-                  width: MediaQuery.of(context).size.width - 80,
+                  width: MediaQuery.of(context).size.width - 81,
                   height: 140,
                   padding: EdgeInsets.symmetric(vertical: 12,horizontal: 12),
                   decoration: BoxDecoration(
