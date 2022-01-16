@@ -36,7 +36,7 @@ class BookDetails extends StatelessWidget {
                     ],
                   ),
                   SizedBox(height: 30,),
-                  Text("“The Little” is a fairy tale written by the Danish author Rwema. The story follows the journey of a young mermaid who is willing to give up his life in the sea as a mermaid to gain a human soul. The tale was first published in 18 as part of a collection of fairy tales for child", style: TextStyle(
+                  Text("“The Little” is a fairy tale written by the Danish author Rwema. The story follows the journey of a young mermaid who is willing to give up his life in the sea as a mermaid to gain a human soul. The tale was first published in 1 as part of a collection of fairy tales for child", style: TextStyle(
                     color: Colors.grey,
                     fontSize: 18,
                     letterSpacing: 0.6,
