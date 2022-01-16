@@ -10,7 +10,7 @@ List<BookModel> getBooks(){
   bookModel.imgAssetPath = "assets/mermaid.png";
   bookModel.title = "The little mermaid";
   bookModel.description = '''“The Little Mermaid” is a
-fairy tale written by the Danish author Hans
+fairy tale written by the Danish author H
  .''';
   bookModel.rating = 5;
   bookModel.categorie = "Fairy Tailes";
