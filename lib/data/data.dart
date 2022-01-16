@@ -75,7 +75,7 @@ List<SingleBookModel> getSingleBooks(){
   //1
   singleBookModel.imgAssetPath = "assets/dancing_with_the_tiger.png";
   singleBookModel.title = "Dancing with Tiger";
-  singleBookModel.categorie = "Comic";
+  singleBookModel.categorie = "Comics";
   books.add(singleBookModel);
 
   singleBookModel = new SingleBookModel();
