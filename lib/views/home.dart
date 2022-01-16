@@ -154,7 +154,7 @@ class _CategorieTileState extends State<CategorieTile> {
               height: 5,
               width: 16,
               decoration: BoxDecoration(
-                  color: Color(0xff007084),
+                  color: Color(0xff0b3036),
                   borderRadius: BorderRadius.circular(12)
               ),
             ) : Container()
