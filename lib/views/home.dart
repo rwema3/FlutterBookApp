@@ -146,7 +146,7 @@ class _CategorieTileState extends State<CategorieTile> {
               child: Text(widget.text, style: TextStyle(
                   color: widget.isSelected ? Colors.black87 : Colors.grey,
                   fontWeight: widget.isSelected ? FontWeight.w600 : FontWeight.w400,
-                  fontSize: widget.isSelected ? 23 : 18
+                  fontSize: widget.isSelected ? 22 : 18
               ),),
             ),
             SizedBox(height: 3,),
