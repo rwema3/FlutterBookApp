@@ -181,7 +181,7 @@ class BooksTile extends StatelessWidget {
       },
       child: Container(
         height: 200,
-        margin: EdgeInsets.only(: 16),
+        margin: EdgeInsets.only(r: 16),
         alignment: Alignment.bottomLeft,
         child: Stack(
           children: <Widget>[
