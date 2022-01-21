@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 class CategorieTile extends StatefulWidget {
 
-  final String te;
+  final String tex;
   final bool isSelected;
   CategorieTile({this.text, @required this.isSelected});
 
