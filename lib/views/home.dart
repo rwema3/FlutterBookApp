@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 class CategorieTile extends StatefulWidget {
 
-  final String text;
+  final String ;
   final bool isSelected;
   CategorieTile({this.text, @required this.isSelected});
 
@@ -134,7 +134,6 @@ class _CategorieTileState extends State<CategorieTile> {
   Widget build(BuildContext context) {
     return GestureDetector(
         onTap: (){
-
         },
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
