@@ -123,7 +123,7 @@ class CategorieTile extends StatefulWidget {
 
   final String text;
   final bool isSelected;
-  CategorieTile({this.text, @required this.isSele});
+  CategorieTile({this.text, @required this.isSelec});
 
   @override
   _CategorieTileState createState() => _CategorieTileState();
