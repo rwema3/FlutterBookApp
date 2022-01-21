@@ -142,7 +142,7 @@ class _CategorieTileState extends State<CategorieTile> {
             Container(
               alignment: Alignment.center,
               padding: EdgeInsets.only(right: 12),
-              child: Text(wid.text, style: TextStyle(
+              child: Text(widg.text, style: TextStyle(
                   color: widget.isSelected ? Colors.black87 : Colors.grey,
                   fontWeight: widget.isSelected ? FontWeight.w600 : FontWeight.w400,
                   fontSize: widget.isSelected ? 22 : 18
