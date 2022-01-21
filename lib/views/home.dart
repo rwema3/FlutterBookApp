@@ -208,7 +208,7 @@ class BooksTile extends StatelessWidget {
                           children: <Widget>[
                             Text(title, style: TextStyle(
                                 color: Colors.black87,
-                                fontSize: ,
+                                fontSize: 1,
                                 fontWeight: FontWeight.w500
                             ),),
                             SizedBox(height: 8,),
