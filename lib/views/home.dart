@@ -220,7 +220,7 @@ class BooksTile extends StatelessWidget {
                             Row(
                               children: <Widget>[
                                 StarRating(
-                                  rating: rat,
+                                  rating: rati,
                                 ),
                                 Spacer(),
                                 Text(categorie,style: TextStyle(
