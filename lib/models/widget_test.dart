@@ -16,7 +16,7 @@ void main() {
     await tester.pumpWidget(MyApp());
 
     // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
+
 
 
     //
