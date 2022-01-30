@@ -19,7 +19,7 @@ void main() {
     expect(find.text('0'), findsOneWidget);
     expect(find.text('1'), findsNothing);
 
-    // Tap the '+' icon and truiggeerss
+    // Tap the '+' icon and
 
 
 
