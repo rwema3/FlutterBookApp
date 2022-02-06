@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is
+  // This widget i
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
