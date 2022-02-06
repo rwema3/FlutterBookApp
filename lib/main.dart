@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Book App Rwema',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        pr
       ),
       home: MyHomePage(),
     );
