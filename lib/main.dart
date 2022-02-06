@@ -4,14 +4,14 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is the 
+  // This widget is the root
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Book App Rwema',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        pr
+        primarySwatch: Colors.blue,
       ),
       home: MyHomePage(),
     );
