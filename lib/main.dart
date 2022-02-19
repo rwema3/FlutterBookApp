@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This wiget is the rot our 
+  // This wiget is the rot ou
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
